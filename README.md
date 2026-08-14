@@ -1,47 +1,72 @@
 <div align="center">
-  <!-- Dynamic Hero Header SVG -->
-  <a href="https://github.com/VasudevTripathi">
-    <img src="./assets/telemetry/header.svg" width="100%" alt="Vasudev Tripathi — AI & Systems Engineer" />
-  </a>
+
+# VASUDEV TRIPATHI
+### **AI & SYSTEMS SOFTWARE ENGINEER**
+*Building intelligent log analysis platforms, C++ priority queue engines, and deterministic workflow architectures.*
+
+<br />
+
+```text
+┌─────────────────────────────────────────────────────────────────────────────────────────┐
+│ SYSTEM STATUS :: ONLINE & OPERATIONAL                                          ● ACTIVE │
+├─────────────────────────────────────────────────────────────────────────────────────────┤
+│ LOCATION   :: Hyderabad, India / Hyprland Linux                                         │
+│ STACK      :: C++17 • Python (FastAPI / NumPy) • React • SQLite • OpenAI API             │
+│ ARCH       :: Zero Data Leakage • Deterministic Engines • Low-Overhead Systems          │
+└─────────────────────────────────────────────────────────────────────────────────────────┘
+```
+
+<br />
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vasudevtripathi)
+&nbsp;&nbsp;
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vasudevtripathi006@gmail.com)
+&nbsp;&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VasudevTripathi)
+
 </div>
 
+<br />
+
 <p align="center">
-  <a href="#about"><b>[ ABOUT ]</b></a> &nbsp;&nbsp;
-  <a href="#now"><b>[ NOW ]</b></a> &nbsp;&nbsp;
-  <a href="#stack"><b>[ STACK ]</b></a> &nbsp;&nbsp;
-  <a href="#projects"><b>[ PROJECTS ]</b></a> &nbsp;&nbsp;
-  <a href="#systems"><b>[ SYSTEMS ]</b></a> &nbsp;&nbsp;
-  <a href="#telemetry"><b>[ TELEMETRY ]</b></a> &nbsp;&nbsp;
+  <a href="#about"><b>[ ABOUT ]</b></a> &nbsp;•&nbsp;
+  <a href="#now"><b>[ NOW ]</b></a> &nbsp;•&nbsp;
+  <a href="#stack"><b>[ STACK ]</b></a> &nbsp;•&nbsp;
+  <a href="#projects"><b>[ PROJECTS ]</b></a> &nbsp;•&nbsp;
+  <a href="#systems"><b>[ SYSTEMS ]</b></a> &nbsp;•&nbsp;
+  <a href="#telemetry"><b>[ TELEMETRY ]</b></a> &nbsp;•&nbsp;
   <a href="#connect"><b>[ CONNECT ]</b></a>
 </p>
 
 ---
 
 <a name="about"></a>
-<div align="center">
-  <!-- Interactive-feeling Engineering Console SVG -->
-  <img src="./assets/telemetry/status_console.svg" width="100%" alt="Engineering Status Console" />
-</div>
-
-<br />
-
-<a name="now"></a>
-### ⚡ NOW :: ACTIVE PRIORITIES
+### ⚡ ENGINEERING STATUS CONSOLE
 
 ```text
 ┌─────────────────────────────────────────────────────────────────────────────────────────┐
-│ OPERATIONAL FOCUS                                                              ● ACTIVE │
+│ ENGINEERING CONSOLE :: ACTIVE RUNTIME STATE                                    ● ONLINE │
 ├─────────────────────────────────────────────────────────────────────────────────────────┤
 │ BUILDING   :: LogSense-AI — Autonomous AI log parsing & local PII sanitization engine   │
 │ STUDYING   :: OS Heap Allocation Routines, Dynamic Memory Fragmentation & C++17         │
 │ EXPLORING  :: Civora Compliance OS — Topological Step Schedulers & Graph Resolution      │
-│ OBJECTIVE  :: Engineering high-reliability, zero-leakage, low-overhead software systems │
+│ PHILOSOPHY :: Zero Leakage — High-Reliability, Low-Overhead & Privacy-First Architecture │
+├─────────────────────────────────────────────────────────────────────────────────────────┤
+│ MODE: BUILD / MEASURE / REFINE                         MEMORY ALLOCATION: NOMINAL PASS  │
 └─────────────────────────────────────────────────────────────────────────────────────────┘
 ```
 
+---
+
+<a name="now"></a>
+### 🎯 CURRENT FOCUS & METRICS
+
 <div align="center">
-  <!-- High-level Metric Cards SVG -->
-  <img src="./assets/telemetry/metrics.svg" width="100%" alt="Core Engineering Metrics" />
+
+| CORE SYSTEMS SHIPPED | AUTOMATED TEST SUITES | DATA LEAKAGE PREVENTION | LOW-LEVEL CORE KERNEL |
+| :---: | :---: | :---: | :---: |
+| **`5+`** | **`26+`** | **`100% Local PII Redaction`** | **`C++17 Priority Engines`** |
+
 </div>
 
 ---
@@ -51,11 +76,11 @@
 
 | Domain | Engineering Tooling & Core Stack |
 | :--- | :--- |
-| **Languages** | `C++17` &nbsp;`Python 3.12+` &nbsp;`JavaScript (ES6+)` &nbsp;`C` &nbsp;`SQL` &nbsp;`Bash` |
-| **AI / Machine Learning** | `OpenAI API` &nbsp;`Rule-Based Root Cause Engines` &nbsp;`Log Analytics` &nbsp;`NumPy` &nbsp;`PII Redaction` |
-| **Backend & Systems** | `FastAPI` &nbsp;`RESTful APIs` &nbsp;`C++ Priority Queues` &nbsp;`SQLite` &nbsp;`Graph Dependency Resolution` |
-| **Frontend & Web** | `React` &nbsp;`Vanilla CSS Design Systems` &nbsp;`Glassmorphism` &nbsp;`Vite` &nbsp;`HTML5/CSS3` |
-| **Environment & Infrastructure** | `Linux (Ubuntu / Hyprland)` &nbsp;`Git` &nbsp;`GCC / Clang` &nbsp;`Jupyter` &nbsp;`Postman` |
+| **Languages** | `C++17` &nbsp; `Python 3.12+` &nbsp; `JavaScript (ES6+)` &nbsp; `C` &nbsp; `SQL` &nbsp; `Bash` |
+| **AI / Machine Learning** | `OpenAI API` &nbsp; `Rule-Based Root Cause Engines` &nbsp; `Log Analytics` &nbsp; `NumPy` &nbsp; `PII Redaction` |
+| **Backend & Systems** | `FastAPI` &nbsp; `RESTful APIs` &nbsp; `C++ Priority Queues` &nbsp; `SQLite` &nbsp; `Graph Dependency Resolution` |
+| **Frontend & Web** | `React` &nbsp; `Vanilla CSS Design Systems` &nbsp; `Glassmorphism` &nbsp; `Vite` &nbsp; `HTML5/CSS3` |
+| **Environment & Infrastructure** | `Linux (Ubuntu / Hyprland)` &nbsp; `Git` &nbsp; `GCC / Clang` &nbsp; `Jupyter` &nbsp; `Postman` |
 
 <details>
 <summary><b>🔍 Expand Detailed Tech Stack Specs & Architecture Tooling</b></summary>
@@ -145,24 +170,15 @@
 ### 📊 GITHUB TELEMETRY DASHBOARD
 
 <div align="center">
-  <!-- Custom Language Distribution SVG -->
-  <img src="./assets/telemetry/languages.svg" width="100%" alt="Language Distributions & Kernels" />
-</div>
-
-<br />
-
-<div align="center">
-  <!-- Live GitHub Stats & Top Languages Cards -->
-  <img src="./assets/telemetry/github_stats.svg" width="48%" alt="Vasudev's GitHub Analytics" />
+  <img src="https://github-readme-stats.vercel.app/api?username=VasudevTripathi&show_icons=true&theme=dark&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=94A3B8&border_color=1E293B" alt="Vasudev's GitHub Analytics" height="165" />
   &nbsp;
-  <img src="./assets/telemetry/top_langs.svg" width="48%" alt="Top Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VasudevTripathi&layout=compact&theme=dark&bg_color=0D1117&title_color=38BDF8&text_color=94A3B8&border_color=1E293B" alt="Top Used Languages" height="165" />
 </div>
 
 <br />
 
 <div align="center">
-  <!-- Telemetry Cadence SVG -->
-  <img src="./assets/telemetry/activity.svg" width="100%" alt="System Telemetry & Activity Cadence" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VasudevTripathi&theme=dark&background=0D1117&stroke=1E293B&color=38BDF8&title=38BDF8&fire=38BDF8" alt="GitHub Streak" height="165" />
 </div>
 
 ---
