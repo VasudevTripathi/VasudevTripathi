@@ -1,158 +1,101 @@
 <div align="center">
+  <h1>Vasudev Tripathi</h1>
+  <p><b>Systems & AI Software Engineer</b></p>
+  <p><i>Building intelligent log analysis platforms, C++ system simulators, and deterministic workflow architectures.</i></p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0E14,50:0F1621,100:0A0E14&height=200&section=header&text=VASUDEV%20TRIPATHI&fontSize=42&fontColor=E2E8F0&fontAlignY=38&desc=&animation=fadeIn" alt="Vasudev Tripathi"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1200&color=38BDF8&center=true&vCenter=true&width=560&height=40&lines=Software+Engineer;AI%2FML-leaning+Full-Stack;Systems+Builder" alt="Typing SVG"/>
-
-<sub>B.Tech CSE, Lovely Professional University · Class of 2028</sub>
-
-<br><br>
-
-<a href="https://www.linkedin.com/in/vasudevtripathi"><img src="https://img.shields.io/badge/LinkedIn-0A0E14?style=for-the-badge&logo=linkedin&logoColor=38BDF8" alt="LinkedIn"/></a>
-<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-0A0E14?style=for-the-badge&logo=gmail&logoColor=38BDF8" alt="Email"/></a>
-<a href="https://github.com/VasudevTripathi"><img src="https://img.shields.io/badge/GitHub-0A0E14?style=for-the-badge&logo=github&logoColor=38BDF8" alt="GitHub"/></a>
-
+  <p>
+    <a href="https://www.linkedin.com/in/vasudevtripathi"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="mailto:vasudevtripathi006@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="https://github.com/VasudevTripathi"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+  </p>
 </div>
 
-<br>
+---
+
+### ⚡ Status & Focus
+
+```text
+┌──────────────────────────────────────────────────────────────────────────────┐
+│ SYSTEM STATUS                                                        ● ACTIVE│
+├──────────────────────────────────────────────────────────────────────────────┤
+│ CURRENTLY BUILDING → LogSense-AI (AI log diagnosis & PII redaction engine)   │
+│ STUDYING           → OS Internals, Dynamic Memory Allocators & C++17         │
+│ EXPLORING          → Deterministic Rule Engines & LLM Copilot Pipelines      │
+│ GOAL               → Building high-reliability, low-overhead software        │
+└──────────────────────────────────────────────────────────────────────────────┘
+```
+
+---
+
+### 💻 Technical Stack
+
+| Domain | Technologies & Tooling |
+| :--- | :--- |
+| **Languages** | `C++17` `Python` `JavaScript (ES6+)` `C` `SQL` `HTML5/CSS3` |
+| **AI / Machine Learning** | `OpenAI API` `Rule Engines` `Log Analytics` `NumPy` `PII Sanitization` |
+| **Backend & Systems** | `FastAPI` `RESTful APIs` `C++ Priority Queues` `SQLite` `System Architecture` |
+| **Frontend & Web** | `React` `JavaScript` `Vanilla CSS` `Glassmorphism` `Vite` |
+| **Environment & Tools** | `Linux (Ubuntu / Hyprland)` `Git` `Bash` `Jupyter` `Postman` |
+
+---
+
+### 🚀 Featured Projects
+
+#### 1. [LogSense-AI](https://github.com/VasudevTripathi/LogSense-AI)
+> **AI-Powered Log Parsing & Root Cause Diagnostic Platform**
+* **Overview:** Autonomous log parsing and incident-analysis system with a local PII and credential sanitization pipeline before invoking AI diagnostic models.
+* **Architecture:** Rule-based root cause engine + OpenAI-powered diagnostic copilot. Guarantees zero sensitive data leakage to external APIs.
+* **Tech Stack:** `FastAPI` · `Python` · `React` · `SQLite` · `OpenAI API`
+* **Highlights:** 26 automated unit tests, 8 production REST endpoints, PII redaction layer.
+
+#### 2. [TriageCare](https://github.com/VasudevTripathi/TriageCare)
+> **Emergency Room Patient Triage Simulator**
+* **Overview:** Dual-channel clinical operations simulator designed to prioritize and manage emergency room patient queues.
+* **Architecture:** Core C++17 priority-queue engine with severity ranking & arrival-time tie breaking, synchronized to a stateless web dashboard via encoded URL state.
+* **Tech Stack:** `C++17` · `JavaScript` · `Vanilla CSS` · `React`
+* **Links:** [Repository](https://github.com/VasudevTripathi/TriageCare) · [Live Demo](https://triage-care.vercel.app)
+
+#### 3. [Civora Compliance OS](https://github.com/VasudevTripathi)
+> **Enterprise Compliance Engine & Workflow Generator**
+* **Overview:** Deterministic decision layer that converts complex multi-variable regulatory conditions into structured compliance roadmaps.
+* **Architecture:** Topological step scheduling, dynamic programming critical path calculation, and condition dependency graph resolution.
+* **Tech Stack:** `Python` · `FastAPI` · `Graph Algorithms` · `Dynamic Programming`
+
+#### 4. [Dynamic Memory Management Visualizer](https://github.com/VasudevTripathi/Dynamic-Memory-Management-Visualizer)
+> **Interactive OS Memory Allocation Simulator**
+* **Overview:** Visual tool demonstrating low-level operating system memory allocation routines and heap fragmentation patterns.
+* **Architecture:** Interactive simulation of First Fit, Best Fit, Worst Fit, and Next Fit dynamic memory allocation algorithms.
+* **Tech Stack:** `C++` · `JavaScript` · `CSS` · `HTML`
+
+#### 5. [Numerical Foundations (NumPy Core)](https://github.com/VasudevTripathi/Foundation_Of_Numpy)
+> **Vectorized Computing & Matrix Operations**
+* **Overview:** Low-level exploratory implementation of linear algebra operations, array vectorization, and multidimensional matrix math.
+* **Tech Stack:** `Python` · `NumPy` · `Jupyter Notebooks`
+
+---
+
+### ⚙️ Engineering Philosophy
+
+```text
+01. Understand the failure mode before writing code.
+02. Keep core architecture simple and deterministic.
+03. Treat data privacy (PII/secrets) as a hard constraint.
+04. Build tests alongside features, not after shipping.
+```
+
+---
+
+### 📊 GitHub Activity
 
 <div align="center">
-
-```
-┌─────────────────────────────────────────────────────┐
-│  SYSTEM                                              │
-│                                                       │
-│  BUILDING    ██████████████░░░░░░  LogSense-AI       │
-│  STUDYING    ███████████░░░░░░░░░  OS internals, ML  │
-│                                                       │
-│  STATUS      ● ACTIVE                                │
-└─────────────────────────────────────────────────────┘
-```
-
+  <img src="https://github-readme-stats.vercel.app/api?username=VasudevTripathi&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="Vasudev's GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VasudevTripathi&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" height="150" />
 </div>
 
-<br>
+---
 
-## Stack
+### 📬 Connect
 
-<table>
-<tr>
-<td valign="top" width="20%"><sub><b>LANGUAGES</b></sub></td>
-<td>
-<img src="https://img.shields.io/badge/Python-0A0E14?style=flat-square&logo=python&logoColor=38BDF8"/>
-<img src="https://img.shields.io/badge/C++-0A0E14?style=flat-square&logo=cplusplus&logoColor=38BDF8"/>
-<img src="https://img.shields.io/badge/JavaScript-0A0E14?style=flat-square&logo=javascript&logoColor=38BDF8"/>
-</td>
-</tr>
-<tr>
-<td valign="top"><sub><b>BACKEND</b></sub></td>
-<td>
-<img src="https://img.shields.io/badge/FastAPI-0A0E14?style=flat-square&logo=fastapi&logoColor=38BDF8"/>
-<img src="https://img.shields.io/badge/SQLite-0A0E14?style=flat-square&logo=sqlite&logoColor=38BDF8"/>
-</td>
-</tr>
-<tr>
-<td valign="top"><sub><b>FRONTEND</b></sub></td>
-<td>
-<img src="https://img.shields.io/badge/React-0A0E14?style=flat-square&logo=react&logoColor=38BDF8"/>
-<img src="https://img.shields.io/badge/Vite-0A0E14?style=flat-square&logo=vite&logoColor=38BDF8"/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-0A0E14?style=flat-square&logo=tailwindcss&logoColor=38BDF8"/>
-</td>
-</tr>
-<tr>
-<td valign="top"><sub><b>AI / ML</b></sub></td>
-<td>
-<img src="https://img.shields.io/badge/OpenAI_API-0A0E14?style=flat-square&logo=openai&logoColor=38BDF8"/>
-<img src="https://img.shields.io/badge/scikit--learn-0A0E14?style=flat-square&logo=scikitlearn&logoColor=38BDF8"/>
-</td>
-</tr>
-<tr>
-<td valign="top"><sub><b>TOOLS</b></sub></td>
-<td>
-<img src="https://img.shields.io/badge/Git-0A0E14?style=flat-square&logo=git&logoColor=38BDF8"/>
-<img src="https://img.shields.io/badge/Docker-0A0E14?style=flat-square&logo=docker&logoColor=38BDF8"/>
-<img src="https://img.shields.io/badge/Vercel-0A0E14?style=flat-square&logo=vercel&logoColor=38BDF8"/>
-</td>
-</tr>
-</table>
-
-<br>
-
-## Featured Work
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-<h3>LogSense-AI</h3>
-
-Log parsing and incident-analysis platform with a rule-based root cause engine and an OpenAI-powered diagnostic copilot. Sanitizes PII and credentials before any data reaches the AI layer.
-
-<sub><b>STACK</b></sub><br>
-FastAPI · React · SQLite · OpenAI API
-
-<sub><b>STATUS</b></sub><br>
-🟢 Active — 26 unit tests · 8 endpoints
-
-<sub><b>LINKS</b></sub><br>
-<a href="https://github.com/VasudevTripathi/LogSense-AI"><img src="https://img.shields.io/badge/Code-0A0E14?style=flat-square&logo=github&logoColor=38BDF8" alt="Code"/></a>
-
-</td>
-<td width="50%" valign="top">
-
-<h3>TriageCare</h3>
-
-Emergency-room triage simulator with a dual-channel architecture — a C++ priority-queue engine and a stateless web dashboard that syncs state through the URL, no backend server required.
-
-<sub><b>STACK</b></sub><br>
-C++17 · JavaScript · Vanilla CSS
-
-<sub><b>STATUS</b></sub><br>
-🟢 Active — live deployment
-
-<sub><b>LINKS</b></sub><br>
-<a href="https://github.com/VasudevTripathi/TriageCare"><img src="https://img.shields.io/badge/Code-0A0E14?style=flat-square&logo=github&logoColor=38BDF8" alt="Code"/></a>
-<a href="https://triage-care.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-0A0E14?style=flat-square&logo=vercel&logoColor=38BDF8" alt="Live Demo"/></a>
-
-</td>
-</tr>
-</table>
-
-<br>
-
-## Building Systems
-
-```
-01  Understand the failure mode before writing a line of code
-02  Design the simplest architecture that handles it correctly
-03  Build, test as you go — not after
-04  Ship, then measure what actually breaks
-```
-
-<br>
-
-## Telemetry
-
-<!-- TELEMETRY: self-hosted via GitHub Actions — see setup notes below.
-     Placeholders point to committed SVG assets, not a live API. -->
-
-<div align="center">
-
-<img src="./assets/telemetry/activity-graph.svg" width="100%" alt="Contribution activity"/>
-
-<br><br>
-
-<img src="./assets/telemetry/language-stats.svg" width="48%" alt="Language breakdown"/>
-<img src="./assets/telemetry/repo-summary.svg" width="48%" alt="Repository summary"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-0A0E14?style=for-the-badge&logo=github&logoColor=38BDF8)](https://github.com/VasudevTripathi)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A0E14?style=for-the-badge&logo=linkedin&logoColor=38BDF8)](https://www.linkedin.com/in/vasudevtripathi)
-[![Email](https://img.shields.io/badge/Email-0A0E14?style=for-the-badge&logo=gmail&logoColor=38BDF8)](mailto:YOUR_EMAIL)
-
-</div>
+- **LinkedIn:** [linkedin.com/in/vasudevtripathi](https://www.linkedin.com/in/vasudevtripathi)
+- **Email:** [vasudevtripathi006@gmail.com](mailto:vasudevtripathi006@gmail.com)
+- **GitHub:** [@VasudevTripathi](https://github.com/VasudevTripathi)
