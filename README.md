@@ -6,7 +6,6 @@
 
 ## 💻 Tech Stack:
 
-<div align="center">
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -52,7 +51,6 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
 
-</div>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=VasudevTripathi&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
