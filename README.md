@@ -1,54 +1,15 @@
-<!-- FULL WIDTH HEADER -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=VASUDEV%20TRIPATHI&fontSize=75&fontAlignY=35&desc=AI%20%26%20Systems%20Architect&descAlignY=60&descSize=25&animation=twinkling&fontColor=ffffff" width="100%" />
 
-  <a href="https://github.com/VasudevTripathi">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F2FE&center=true&vCenter=true&width=800&height=50&lines=Building+Deterministic+Systems;Architecting+AI+Log+Diagnostics;Engineering+C%2B%2B+Priority+Queues;Enforcing+Zero+Data+Leakage" alt="Typing SVG" />
-  </a>
 
-  <br/><br/>
 
-  <a href="https://www.linkedin.com/in/vasudevtripathi">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:vasudevtripathi006@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/VasudevTripathi">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</div>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vasudev_tripathi_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin/vasudevtripathi) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vasudevtripathi006@gmail.com) 
 
-<br/>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=timeGradient&height=2" width="100%"/>
-<br/>
-
-<h2 align="center"> ⚡ CORE DIRECTIVES </h2>
-
-<table width="100%" align="center">
-  <tr>
-    <td align="center" width="25%">
-      <img src="https://capsule-render.vercel.app/api?type=rect&color=00F2FE&text=ZERO%20LEAKAGE&height=40&fontSize=14&fontColor=ffffff&fontAlignY=50" width="100%" />
-      <p>PII and credentials must be sanitized <i>before</i> hitting the network.</p>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://capsule-render.vercel.app/api?type=rect&color=3B82F6&text=DETERMINISM&height=40&fontSize=14&fontColor=ffffff&fontAlignY=50" width="100%" />
-      <p>Core business logic must be verifiable, consistent, and predictable.</p>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://capsule-render.vercel.app/api?type=rect&color=8A2387&text=TEST-DRIVEN&height=40&fontSize=14&fontColor=ffffff&fontAlignY=50" width="100%" />
-      <p>If it is not tested, it is technical debt. Automated verification is mandatory.</p>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://capsule-render.vercel.app/api?type=rect&color=E94057&text=PERFORMANCE&height=40&fontSize=14&fontColor=ffffff&fontAlignY=50" width="100%" />
-      <p>Leverage C++ for critical paths, Python for high-level orchestration.</p>
-    </td>
-  </tr>
-</table>
-
-<br/>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=timeGradient&height=2" width="100%"/>
-<br/>
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=VasudevTripathi&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=VasudevTripathi&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=VasudevTripathi&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <h2 align="center"> 📊 TELEMETRY COMMAND CENTER </h2>
 
@@ -72,90 +33,21 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=timeGradient&height=2" width="100%"/>
 <br/>
 
-<h2 align="center"> 🚀 ELITE ARCHITECTURE </h2>
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top" align="center">
-      <h3><a href="https://github.com/VasudevTripathi/LogSense-AI" style="text-decoration: none; color: #00F2FE;">🧠 LogSense-AI</a></h3>
-      <p><i>Autonomous AI Log Diagnostics & PII Sanitizer</i></p>
-      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi" />
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python" />
-      <br/><br/>
-      <p align="left"><b>Impact:</b> Prevents PII leakage to third-party AI APIs while providing actionable debugging insights.</p>
-      <p align="left"><b>Architecture:</b> Local Regex/Pattern sanitization pipeline, FastAPI backend, OpenAI integration.</p>
-    </td>
-    <td width="50%" valign="top" align="center">
-      <h3><a href="https://github.com/VasudevTripathi/TriageCare" style="text-decoration: none; color: #00F2FE;">🏥 TriageCare</a></h3>
-      <p><i>ER Operations Simulator & Priority Engine</i></p>
-      <img src="https://img.shields.io/badge/C++17-00599C?style=flat-square&logo=c%2B%2B" />
-      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react" />
-      <br/><br/>
-      <p align="left"><b>Impact:</b> Demonstrates advanced priority queue management under high capacity with strict tie-breaking logic.</p>
-      <p align="left"><b>Architecture:</b> Core C++17 engine synchronized to a stateless React web dashboard via encoded URL state.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top" align="center">
-      <br/>
-      <h3><a href="https://github.com/VasudevTripathi" style="text-decoration: none; color: #00F2FE;">🛡️ Civora Compliance OS</a></h3>
-      <p><i>Deterministic Workflow Engine</i></p>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python" />
-      <br/><br/>
-      <p align="left"><b>Impact:</b> Automates compliance tracking using topological graph resolution.</p>
-      <p align="left"><b>Architecture:</b> Dynamic programming critical path calculation, topological step scheduling.</p>
-    </td>
-    <td width="50%" valign="top" align="center">
-      <br/>
-      <h3><a href="https://github.com/VasudevTripathi/Dynamic-Memory-Management-Visualizer" style="text-decoration: none; color: #00F2FE;">💾 Memory Visualizer</a></h3>
-      <p><i>Interactive OS Memory Allocation Simulator</i></p>
-      <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B" />
-      <br/><br/>
-      <p align="left"><b>Impact:</b> Interactive system tool illustrating OS dynamic memory allocation strategies.</p>
-      <p align="left"><b>Algorithms:</b> First Fit, Best Fit, Worst Fit, Next Fit.</p>
-    </td>
-  </tr>
-</table>
 
-<br/>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=timeGradient&height=2" width="100%"/>
-<br/>
 
-<h2 align="center"> 🛠️ MASTERED ARSENAL </h2>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
-<table width="100%" align="center">
-  <tr>
-    <td align="center">
-      <b>Kernels & Languages</b><br><br>
-      <img src="https://img.shields.io/badge/C%2B%2B17-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-      <img src="https://img.shields.io/badge/Python_3.12+-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-      <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-      <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <br/><b>AI, Data & Backend Systems</b><br><br>
-      <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-      <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" />
-      <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-      <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <br/><b>Infrastructure & Interfaces</b><br><br>
-      <img src="https://img.shields.io/badge/React_18-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-      <img src="https://img.shields.io/badge/Linux_Hyprland-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-      <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-    </td>
-  </tr>
-</table>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=VasudevTripathi&limit=5&theme=merko&combine_all_yearly_contributions=true)
 
-<br/><br/>
+---
+[![](https://komarev.com/ghpvc/?username=VasudevTripathi&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
 
 <div align="center">
   <sub font-family="monospace"><b> VASUDEV TRIPATHI &copy; 2026</b></sub>
